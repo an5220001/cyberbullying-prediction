@@ -1,1 +1,1 @@
-Coppy từ https://github.com/apurvayadav/cyberbullying-tweet-recognition-app
+Coppy: https://github.com/apurvayadav/cyberbullying-tweet-recognition-app
