@@ -1,1 +1,1 @@
-Coppy: https://github.com/apurvayadav/cyberbullying-tweet-recognition-app
+https://github.com/apurvayadav/cyberbullying-tweet-recognition-app
