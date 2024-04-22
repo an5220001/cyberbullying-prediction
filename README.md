@@ -1,3 +1,2 @@
 https://github.com/apurvayadav/cyberbullying-tweet-recognition-app
-
-streamlit run webapp.py
+To run streamlit: streamlit run webapp.py
